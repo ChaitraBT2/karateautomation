@@ -1,0 +1,228 @@
+17:40:38.646 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+17:40:39.935 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature:3
+* url 'https://' + hostName + '/helpcenter/usermanual/dashboard/livestatus/'
+js failed:
+>>>>
+01: 'https://' + hostName + '/helpcenter/usermanual/dashboard/livestatus/'
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "hostName" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature:3
+17:40:40.523 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature
+17:42:56.734 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+17:42:57.036 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695903177031
+17:42:57.895 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature:3
+* url 'https://' + hostName + '/helpcenter/usermanual/dashboard/livestatus/'
+js failed:
+>>>>
+01: 'https://' + hostName + '/helpcenter/usermanual/dashboard/livestatus/'
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "hostName" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature:3
+17:42:58.443 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature
+17:43:13.225 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+17:43:13.613 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695903193610
+17:43:14.539 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/user-management/tag.feature:3
+* url 'https://' + hostName + '/tariff/api/addNewTag'
+js failed:
+>>>>
+01: 'https://' + hostName + '/tariff/api/addNewTag'
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "hostName" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/user-management/tag.feature:3
+17:43:15.086 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/user-management/tag.feature
+17:46:13.554 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+17:46:13.852 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695903373848
+17:46:14.748 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature:3
+* url 'https://' + hostName + '/helpcenter/usermanual/dashboard/livestatus/'
+js failed:
+>>>>
+01: 'https://' + hostName + '/helpcenter/usermanual/dashboard/livestatus/'
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "hostName" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature:3
+17:46:15.251 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature
+17:49:12.736 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+17:49:13.041 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695903553038
+17:49:13.966 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/user-management/tag1.feature:3
+* url 'https://' + hostName + '/tariff/api/addNewTag'
+js failed:
+>>>>
+01: 'https://' + hostName + '/tariff/api/addNewTag'
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "hostName" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/user-management/tag1.feature:3
+17:49:13.978 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/user-management/tag1.feature:3
+* url 'https://' + hostName + '/tariff/api/addNewTag'
+js failed:
+>>>>
+01: 'https://' + hostName + '/tariff/api/addNewTag'
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "hostName" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/user-management/tag1.feature:3
+17:49:14.542 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/user-management/tag1.feature
+17:52:36.354 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+17:52:36.719 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695903756715
+17:52:37.952 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature:3
+* url 'https://' + hostName + '/helpcenter/usermanual/dashboard/livestatus/'
+js failed:
+>>>>
+01: 'https://' + hostName + '/helpcenter/usermanual/dashboard/livestatus/'
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "hostName" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature:3
+17:52:38.631 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature
+17:53:24.064 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+17:53:24.417 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695903804412
+17:53:24.437 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 2
+17:53:25.297 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature:4
+* header Authorization = authToken
+js failed:
+>>>>
+01: authToken
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "authToken" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature:4
+17:53:25.812 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature
+18:00:52.065 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+18:00:52.424 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695904252421
+18:00:53.320 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature:4
+* header Authorization = authToken
+js failed:
+>>>>
+01: authToken
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "authToken" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature:4
+18:00:53.869 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/cms-web-apis/Live -status-user-manual.feature
+18:10:31.822 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+18:10:32.158 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695904832155
+18:10:33.108 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:4
+* header Authorization = authToken
+js failed:
+>>>>
+01: authToken
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "authToken" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:4
+18:10:33.618 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature
+18:11:26.240 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+18:11:26.554 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695904886550
+18:11:27.507 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:4
+* header Authorization = 'Bearer '+'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTU5NjM0OTMsImlzcyI6IlIxR25MTlI3aXIwdTFRdEIzZ3FwVW9McWwzWHBsSDNwIiwiYXVkIjoiV0VCQURNSU4iLCJhcGlDbGFpbXMiOiJbe1wicFwiOlwiQWxsXCJ9LHtcImlkZW50aWZpZXJcIjpcIlN1cGVyIEFkbWluXCIsXCJhZG1pbk5hbWVcIjpcImFkbWluQG51bW9jaXR5LmNvbVwifV0iLCJpYXQiOjE2OTU4NzcwOTN9.OooQXYv62INLiKa3TySz5sVnEAavbI0AIKlZgQxBcUo',
+js failed:
+>>>>
+01: 'Bearer '+'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTU5NjM0OTMsImlzcyI6IlIxR25MTlI3aXIwdTFRdEIzZ3FwVW9McWwzWHBsSDNwIiwiYXVkIjoiV0VCQURNSU4iLCJhcGlDbGFpbXMiOiJbe1wicFwiOlwiQWxsXCJ9LHtcImlkZW50aWZpZXJcIjpcIlN1cGVyIEFkbWluXCIsXCJhZG1pbk5hbWVcIjpcImFkbWluQG51bW9jaXR5LmNvbVwifV0iLCJpYXQiOjE2OTU4NzcwOTN9.OooQXYv62INLiKa3TySz5sVnEAavbI0AIKlZgQxBcUo',
+<<<<
+org.graalvm.polyglot.PolyglotException: SyntaxError: Unnamed:1:354 Expected an operand but found eof
+'Bearer '+'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTU5NjM0OTMsImlzcyI6IlIxR25MTlI3aXIwdTFRdEIzZ3FwVW9McWwzWHBsSDNwIiwiYXVkIjoiV0VCQURNSU4iLCJhcGlDbGFpbXMiOiJbe1wicFwiOlwiQWxsXCJ9LHtcImlkZW50aWZpZXJcIjpcIlN1cGVyIEFkbWluXCIsXCJhZG1pbk5hbWVcIjpcImFkbWluQG51bW9jaXR5LmNvbVwifV0iLCJpYXQiOjE2OTU4NzcwOTN9.OooQXYv62INLiKa3TySz5sVnEAavbI0AIKlZgQxBcUo',
+                                                                                                                                                                                                                                                                                                                                                                  ^
+
+- org.graalvm.polyglot.Context.eval(Context.java:425)
+- com.intuit.karate.graal.JsEngine.evalForValue(JsEngine.java:169)
+- com.intuit.karate.graal.JsEngine.eval(JsEngine.java:165)
+- com.intuit.karate.core.ScenarioEngine.evalJs(ScenarioEngine.java:1204)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2152)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2071)
+- com.intuit.karate.core.ScenarioEngine.header(ScenarioEngine.java:409)
+
+csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:4
+18:11:28.155 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature
+18:13:21.698 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+18:13:22.147 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695905002143
+18:13:23.111 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:4
+* header Authorization = authToken
+js failed:
+>>>>
+01: authToken
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "authToken" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:4
+18:13:23.677 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature
+18:13:44.347 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+18:13:44.661 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695905024657
+18:13:44.682 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 2
+18:13:45.686 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:4
+* header Authorization = authToken
+js failed:
+>>>>
+01: authToken
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "authToken" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:4
+18:13:46.227 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature
+18:14:42.327 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+18:14:42.718 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695905082715
+18:14:43.629 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:4
+* header Authorization = authToken
+js failed:
+>>>>
+01: authToken
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "authToken" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:4
+18:14:44.175 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature
+18:17:32.616 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+18:17:32.965 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695905252961
+18:17:33.881 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:3
+* url 'https://' + hostName + '/helpcenter/usermanual/dashboard/livestatus/'
+js failed:
+>>>>
+01: 'https://' + hostName + '/helpcenter/usermanual/dashboard/livestatus/'
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "hostName" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:3
+18:17:34.403 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature
+18:18:16.876 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+18:18:17.173 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695905297170
+18:18:18.163 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/user-management/hub.feature:3
+* url 'https://' + hostName + '/' + emspName + 'api/location/' + "CMS_FUSION" + '/' + "BELLARI1" + '/'+ 1
+js failed:
+>>>>
+01: 'https://' + hostName + '/' + emspName + 'api/location/' + "CMS_FUSION" + '/' + "BELLARI1" + '/'+ 1
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "hostName" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/user-management/hub.feature:3
+18:18:18.716 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/user-management/hub.feature
+03:34:58.477 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+03:34:58.801 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695938698797
+03:34:59.856 [main]  ERROR com.intuit.karate - csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:3
+* url 'https://' + hostName + '/helpcenter/usermanual/dashboard/livestatus/'
+js failed:
+>>>>
+01: 'https://' + hostName + '/helpcenter/usermanual/dashboard/livestatus/'
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "hostName" is not defined
+- <js>.:program(Unnamed:1)
+
+csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature:3
+03:35:00.602 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) csms-automation-suite/test-suite/cms-web-apis/live -status-user-manual.feature
